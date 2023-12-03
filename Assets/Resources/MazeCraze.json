@@ -1,0 +1,32 @@
+
+{
+    "gameCartridge":
+    {
+        "gameTitle": "MAZE CRAZE",
+
+        "tvMode": "COLOUR_TV",
+
+        "games":
+        [
+            { "gameNumber": 1, "variation": 1, "players": 2, "visibility": 1, "type1": "NONE", "type2": "NONE",      "type3": "NONE", "speed": 1 },
+            { "gameNumber": 1, "variation": 2, "players": 2, "visibility": 2, "type1": "NONE", "type2": "AUTO PEEK", "type3": "NONE", "speed": 1 },
+            { "gameNumber": 1, "variation": 3, "players": 2, "visibility": 3, "type1": "NONE", "type2": "AUTO PEEK", "type3": "NONE", "speed": 1 },
+            { "gameNumber": 1, "variation": 4, "players": 2, "visibility": 4, "type1": "NONE", "type2": "AUTO PEEK", "type3": "NONE", "speed": 1 },
+    
+            { "gameNumber": 2, "variation": 1, "players": 2, "visibility": 1, "type1": "2 ROBBERS", "type2": "NONE",        "type3": "NONE", "speed": 1 },
+            { "gameNumber": 2, "variation": 2, "players": 2, "visibility": 2, "type1": "2 ROBBERS", "type2": "PLAYER PEEK", "type3": "NONE", "speed": 1 },
+            { "gameNumber": 2, "variation": 3, "players": 2, "visibility": 3, "type1": "2 ROBBERS", "type2": "PLAYER PEEK", "type3": "NONE", "speed": 1 },
+            { "gameNumber": 2, "variation": 4, "players": 2, "visibility": 4, "type1": "2 ROBBERS", "type2": "PLAYER PEEK", "type3": "NONE", "speed": 1 },
+
+            { "gameNumber": 8, "variation": 1, "players": 2, "visibility": 1, "type 1": "CAPTURE", "type 2": "NONE",        "type 3": "BLOCKADE", "speed": 1 },
+            { "gameNumber": 8, "variation": 2, "players": 2, "visibility": 2, "type 1": "CAPTURE", "type 2": "PLAYER PEEK", "type 3": "BLOCKADE", "speed": 1 },
+            { "gameNumber": 8, "variation": 3, "players": 2, "visibility": 3, "type 1": "CAPTURE", "type 2": "PLAYER PEEK", "type 3": "BLOCKADE", "speed": 1 },
+            { "gameNumber": 8, "variation": 4, "players": 2, "visibility": 4, "type 1": "CAPTURE", "type 2": "PLAYER PEEK", "type 3": "BLOCKADE", "speed": 1 },
+    
+            { "gameNumber": 9, "variation": 1, "players": 2, "visibility": 1, "type 1": "2 ROBBERS", "type 2": "NONE", "type 3": "NONE", "speed": 1 },
+            { "gameNumber": 9, "variation": 2, "players": 2, "visibility": 2, "type 1": "2 ROBBERS", "type 2": "NONE", "type 3": "NONE", "speed": 1 },
+            { "gameNumber": 9, "variation": 3, "players": 2, "visibility": 3, "type 1": "2 ROBBERS", "type 2": "NONE", "type 3": "NONE", "speed": 1 },
+            { "gameNumber": 9, "variation": 4, "players": 2, "visibility": 4, "type 1": "2 ROBBERS", "type 2": "NONE", "type 3": "NONE", "speed": 1 }
+        ]
+    }
+}

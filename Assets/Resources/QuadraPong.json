@@ -1,0 +1,14 @@
+
+{
+    "gameSelectMatrix":
+    {
+        "gameVariations":
+        [
+            { "gameNumber": 1, "variation": 0, "players": 1, "visibility": 0, "type1": "NONE", "type2": "NONE", "type3": "NONE", "speed": 0 },
+    
+            { "gameNumber": 2, "variation": 0, "players": 2, "visibility": 0, "type1": "NONE", "type2": "NONE", "type3": "NONE", "speed": 0 },
+
+            { "gameNumber": 3, "variation": 0, "players": 22, "visibility": 0, "type1": "NONE", "type2": "NONE", "type3": "NONE", "speed": 0 }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+
+{
+    "gameCartridge":
+    {
+        "gameTitle": "PONG",
+
+        "tvMode": "BW_TV",
+
+        "gameVariations":
+        [
+            { "game": 1, "level": 1, "players": 1, "visibility": 0, "variation1": "NONE", "variation2": "NONE", "variation3": "NONE", "speed": 1 },
+    
+            { "game": 2, "variation": 0, "players": 2, "visibility": 0, "level": [ "NONE", "NONE", "NONE" ], "speed": 0 }
+        ]
+    }
+}
