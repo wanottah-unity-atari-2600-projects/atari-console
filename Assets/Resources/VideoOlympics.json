@@ -1,0 +1,16 @@
+
+{
+    "gameCartridge":
+    {
+        "gameTitle": "VIDEO OLYMPICS",
+
+        "tvMode": "COLOUR_TV",
+
+        "games":
+        [
+            { "gameNumber": 1, "gameName": "PONG", "gameVariation": 1, "players": 1, "visibility": 1, "gameType1": "SPEED", "gameType2": "NONE", "gameType3": "NONE", "speed": 1 },
+
+            { "gameNumber": 9, "gameName": "SUPER PONG", "gameVariation": 1, "players": 2, "visibility": 1, "gameType1": "SPEED", "gameType2": "NONE", "gameType3": "NONE", "speed": 1 }
+        ]
+    }
+}
